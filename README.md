@@ -3,7 +3,9 @@ Some jupyter notebook codes for analysing local crime stats in Llandaff North an
 
 ## Findings So Far
 
-*A major limitation was that the crime data only went back to January 2016, so historical trends cannot be inferred.*
+Complete up to NOV-18*
+
+**A major limitation was that the crime data only went back to JAN-2016, so historical trends cannot be inferred.*
 
 ### All crimes
 
