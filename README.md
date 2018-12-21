@@ -17,7 +17,7 @@ Some jupyter notebook codes for analysing local crime stats in Llandaff North an
 
 ### Crime Type Breakdown
 
-- The most occurring crime was violent crime (1084), followed by vehicle crime (907).
+- The most occurring crime was violent crime (1,084), followed by vehicle crime (907).
 - The least occurring crime was theft from person (22), robbery (22) and possession of weapons (33).
 
 ### Action/Response
